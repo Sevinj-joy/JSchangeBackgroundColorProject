@@ -1,0 +1,12 @@
+button {
+    margin-top: 50vh
+}
+#color_box {
+    width: 100%;
+    min-height: 100%;
+    background-color: #000;
+  }
+#rgcbtn {
+    font-size: 15px;
+    font-weight: bold;
+  }
